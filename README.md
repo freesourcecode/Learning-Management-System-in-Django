@@ -24,7 +24,7 @@ Here are the steps on how to create a Django Learning Management System with Sou
 * Step 5: Click create — Lastly, finish creating project by clicking “create” button.
 * Step 6: Start Coding — Finally, we will now start adding functionality to our Django Framework by adding some functional codes.
 
-Full documentation for the project is available at: https://itsourcecode.com/free-projects/python-projects/learning-management-system-project-in-django-with-source-code/
+Full documentation for the **Learning Management System in Django Project** is available at: https://itsourcecode.com/free-projects/python-projects/learning-management-system-project-in-django-with-source-code/
 
 
 
