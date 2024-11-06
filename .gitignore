@@ -1,0 +1,3 @@
+ll-env/
+__pycache__/
+*.sqlite3
